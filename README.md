@@ -2,7 +2,7 @@
 ### Sou Desenvolvedor Full Stack
 ## seja-bem vindo ao Meu Github
 
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
   <a href="https://github.com/IsaiasSouzaSantos">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=IsaiasSouzaSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasSouzaSantos&layout=compact&langs_count=7&theme=dark"/>
